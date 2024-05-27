@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assets.Game.Scripts.BehaviourTree
+namespace BLProdBehaviourTree.BehaviourTree
 {
     public enum NodeState
     {
